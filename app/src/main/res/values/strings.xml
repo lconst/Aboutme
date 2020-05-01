@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="text_name">Bad proger</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis aliquam metus eu porta. In eu lacus nec nisl feugiat efficitur. Vestibulum at semper nulla. Vestibulum mollis ante ac velit convallis ultrices. Proin erat lorem, volutpat et est eget, elementum aliquam ante. Praesent vel augue non metus viverra consequat. Nunc eget nulla aliquam, ultricies orci sed, faucibus lacus. Sed fringilla sit amet urna ac molestie. Vivamus at posuere urna, vitae molestie tellus. Duis fringilla porttitor feugiat. Phasellus nisl turpis, tincidunt pharetra aliquam et, interdum pellentesque eros.  Sed tincidunt venenatis neque non euismod. Nulla facilisi. Nullam sem ante, luctus quis sapien in, convallis bibendum lectus. Ut mollis vehicula ante. Morbi tristique, neque vitae condimentum mollis, orci dui vulputate justo, ac volutpat felis nulla vitae sem. Donec nec diam ipsum. Cras elementum sem diam, eu hendrerit enim tincidunt nec. Nunc consectetur ligula nec bibendum volutpat. Morbi et diam condimentum, molestie mi ac, bibendum leo. Suspendisse potenti.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done_text">Done</string>
+</resources>
